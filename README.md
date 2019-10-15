@@ -1,3 +1,26 @@
+## pcl_conversions (eloquent) - 2.0.0-1
+
+The packages in the `pcl_conversions` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -n -r eloquent pcl_conversions --override-release-repository-push-url git@github.com:ros2-gbp/pcl_conversions-release` on `Tue, 15 Oct 2019 01:15:02 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+
+- upstream repository: https://github.com/ros2/pcl_conversions.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## pcl_conversions (dashing) - 2.0.0-1
 
 The packages in the `pcl_conversions` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing pcl_conversions` on `Fri, 19 Apr 2019 19:39:40 -0000`
